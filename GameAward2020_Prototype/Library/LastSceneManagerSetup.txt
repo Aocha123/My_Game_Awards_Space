@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Prototype.unity
+- path: "C:/Users/sugas/Documents/Game_Awards_2020/Prototype\u4FEE\u6B63\u7248/\u30B2\u30FC\u30E0\u5927\u8CDE\u30D7\u30ED\u30C8\u30BF\u30A4\u30D7/Assets/Scenes/Prototype.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
